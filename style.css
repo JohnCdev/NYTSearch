@@ -1,0 +1,15 @@
+.jumbotron-fluid {
+    text-align: center;
+    background-color: navy;
+    color: white;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+form {
+    padding: 10px;
+}
+
+.articlesTitle {
+    padding: 10px;
+}
